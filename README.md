@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Andres and this profile showcases my programming abilities through various projects. Feel free to browse my repositories.
+I'm Andrés and this profile showcases my programming abilities through various projects. Feel free to browse my repositories.
 
 - :briefcase: Open and Looking for Full Time Employment
 

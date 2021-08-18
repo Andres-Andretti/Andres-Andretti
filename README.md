@@ -7,6 +7,6 @@ I'm Andrés and this profile showcases my programming abilities through various 
 - :mortar_board: DigitalCrafts Bootcamp Graduate 2021 
 - :man_technologist: I’m currently working on a crypto exchange build out for a DAO company as a Developer on contract
 - 🌱 I’m currently learning Solidity, DeFi, ERC-721 NFTs, & Nervos Blockchain interoperability
-- 📫 How to reach me: acorredor407@gmail.com...
+- 📫 How to reach me: acorredor407@gmail.com
 
 
